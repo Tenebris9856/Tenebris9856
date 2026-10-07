@@ -2,7 +2,7 @@
 **Изергиль Ван Дер Вельде** — **автор *творческого художественного бренда &laquo;Cultus Tenebrae&raquo;***, ***технический писатель* и *программист***.
 
 <!-- Сводная карточка профиля -->
- ![Сводная карточка профиля](<https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tenebris9856&theme=synthwave> "Сводная карточка профиля")
+ ![Сводная карточка профиля](<https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tenebris9856&theme=synthwave&animation=fade> "Сводная карточка профиля")
 
 ## Образование
 1. **Новочеркасский политехнический колледж при *Южно-Российском государственном политехническом университете*** (***Новочеркасский политехнический институт***) — **НПК при *ЮРГПУ*** (***НПИ***):
